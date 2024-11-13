@@ -18,7 +18,7 @@ let letters;
 let lives;
 
 const words = new Map([
-  ['girlcode', 'It is an organisation that hosted the largest all female hackathon in South Africa'],
+  ['python', 'This programming language was created by Guido van Rossum and was first released in 1991'],
   
 ]);
 

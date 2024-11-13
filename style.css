@@ -1,6 +1,6 @@
 body {
     /* background-image: linear-gradient(to right, #f46b45, #eea849); */
-    background-color: #e75480;
+    background-color: 	#0000FF;
     color: white;
     text-align: center;
   }
@@ -50,7 +50,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background: #fc6c85;
+    background: #3333FF;
     width: 20rem;
     padding: 20px 10px;
     border-radius: 4px;
@@ -64,7 +64,7 @@ body {
   }
 
   .hint-btn {
-    background-color: #e75480;
+    background-color: #3333FF;
     border: 2px solid;
     border-color: white;
     color: white;
@@ -78,7 +78,7 @@ body {
   }
 
   .reset-btn {
-      background-color: #e75480;
+      background-color: #3333FF;
       border: 2px solid;
       color: white;
       padding: 15px 32px;
@@ -90,7 +90,7 @@ body {
   }
 
   .notif-btn{
-    background-color: #e75480;
+    background-color: #3333FF;
     border: 2px solid;
     color: white;
     padding: 15px 32px;
